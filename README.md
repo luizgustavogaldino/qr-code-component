@@ -30,7 +30,7 @@ Este projeto reforçou conceitos importantes como **alinhamento com Flexbox**, u
 ### Links
 
 - **URL da solução:** [https://www.frontendmentor.io/solutions/qr-code-component](https://www.frontendmentor.io/solutions/qr-code-component)  
-- **URL do site ao vivo:** [https://luizgaldino-qrcode.netlify.app](https://luizgaldino-qrcode.netlify.app)
+- **URL do site ao vivo:** [https://qr-code-component-lg.vercel.app/](https://qr-code-component-lg.vercel.app/)
 
 ---
 
